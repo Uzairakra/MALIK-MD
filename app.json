@@ -1,14 +1,14 @@
 {
   "name": "MALIK-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
+  "logo": "https://imgur.com/a/AMMrUCx",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "Malik", "Secktor","MALIK-MD","theme bot","multi device","baileys","bot"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Ata Ur Rehman"
+      "value": "GＯJＯ　SＥＲ"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg"
+     "value": "https://imgur.com/a/AMMrUCx"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "mybot;malik-md",
+     "value": "GＯJＯ　SＥＲ;Nᴇᴠᴇʀ  Mɪss  Aɴ Oᴘᴘᴏʀᴛᴜɴɪᴛʏ Tᴏ Pᴜᴛ ᴀ Sᴍɪʟᴇ Oɴ Sᴏᴍᴇᴏɴᴇ's Fᴀᴄᴇ ✨",
      "required": false 
   },
   "heroku": {
